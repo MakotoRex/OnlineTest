@@ -1,6 +1,6 @@
 # README
 
-** App Description **
+## App Description
 
 1. We firstly try the private server API with timeout 3 seconds. If success, show "Private Api : {"status":200,"message":"OK"}"on the top of page, else we try the public server API. If success, show "Public Api : {"status":200,"message":"OK"}"on the top of page, else we show onFailure message.
 
