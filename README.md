@@ -30,8 +30,8 @@ c.add(Calendar.HOUR, 4);  -> c.add(Calendar.SECOND, 4);
 
 ### ScreenShot
 
-![image](https://github.com/MakotoRex/OnlineTest/blob/master/connecting.jpg?raw=false)
+![image](https://github.com/MakotoRex/OnlineTest/blob/master/connecting.jpg?raw=false | width=100)
 
-![image](https://github.com/MakotoRex/OnlineTest/blob/master/public_server.jpg?raw=false)
+![image](https://github.com/MakotoRex/OnlineTest/blob/master/public_server.jpg?raw=false | width=100)
 
-![image](https://github.com/MakotoRex/OnlineTest/blob/master/wallet.jpg?raw=true)
+![image](https://github.com/MakotoRex/OnlineTest/blob/master/wallet.jpg?raw=false | width=100)
